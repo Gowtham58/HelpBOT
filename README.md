@@ -1,6 +1,6 @@
 # HelpBOT
 ## Description
-The HelpBOT is an application framework that leverages the power of Large Language Models  (LLM) and the Active Retrieval Augmented Generation (RAG) method for users  to access Government scheme-related details effortlessly.
+The HelpBOT is an application framework that leverages the power of Large Language Models  (LLM) and the Active Retrieval Augmented Generation (RAG) method for users  to access Government scheme-related details effortlessly. We can switch between two models, Zephyr 7B and Mistral 7B model.
 ## Methodology
 The methodology consists of three stages vector embeddings, Retrieval and Integration. 
 ### Vector Embeddings
